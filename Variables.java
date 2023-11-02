@@ -5,3 +5,6 @@ public class Variables {
         System.out.println("Hello " + name + ". Your age is " + number);
     }
 }
+
+// An int variable can only store whole numbers
+// 
