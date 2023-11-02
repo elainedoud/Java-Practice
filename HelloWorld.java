@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("Hello World!");
     }
 }
 
@@ -9,3 +9,5 @@ public class HelloWorld {
 // Example:  javac HelloWorld.java
 //   java HelloWorld.java
 // (The file and class must have matching names or it will not work)
+
+//Every Java class must have a main function or it will not work
